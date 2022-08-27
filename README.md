@@ -2,7 +2,7 @@
 
 More often than not, we all end up in a situation having to setup our dev workstations all over again and waste our time.
 
-This guide is to save our time in setting up dev workstations with the (most frequently used) tools.
+This guide is to save time in setting up dev workstation/s with the (most frequently used) tools.
 
 
 * Setting up Github/Git credentials: [Click here](Github/README.md)
